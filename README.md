@@ -1,4 +1,4 @@
-### Hi there, I'm Francisca, but you can call me - ![#f03c15]Pancha`#f03c15`  :cat2:
+### Hi there, I'm Francisca, but you can call me - ![#f03c15]Pancha :cat2:
 
 :computer: Working with:  React, JavaScript, Firebase HTML and CSS.
 🔭 Currently learning: Firebase, React, NodeJS.
