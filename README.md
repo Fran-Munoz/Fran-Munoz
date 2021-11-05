@@ -1,4 +1,4 @@
-### Hi there, I'm Francisca, but you can call me Pancha Ñ👋
+### Hi there, I'm Francisca, but you can call me Pancha :cat2:
 
 
 
