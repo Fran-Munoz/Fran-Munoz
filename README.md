@@ -1,7 +1,7 @@
 ### Hi there, I'm Francisca, but you can call me -Pancha :cat2:
 
--:computer: Working with:  React, JavaScript, Firebase HTML and CSS.
--🔭 Currently learning: React, NodeJS.
+- :computer: Working with:  React, JavaScript, Firebase HTML and CSS.
+- 🔭 Currently learning: React, NodeJS.
 
 
 
