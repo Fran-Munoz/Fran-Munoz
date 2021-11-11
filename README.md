@@ -3,7 +3,6 @@
 
 - :computer: Working with:  React, JavaScript, Firebase HTML and CSS.
 - 🔭 Currently learning: React, NodeJS.
-- 
 
 
 
